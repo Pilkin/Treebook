@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="21" version="2.0">
+<workbench progressCount="14" version="2.0">
 <workbenchAdvisor/>
 <window height="829" width="1200" x="0" y="22">
 <fastViewData fastViewLocation="1024"/>
@@ -52,9 +52,7 @@
 </view>
 <view id="com.aptana.explorer.view" partName="App Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled="" activeProject="treebook">
-<project name="treebook">
-<selection>
-<element path="/treebook"/>
+<project name="treebook">&#x0A;<selection>&#x0A;<element path="/treebook"/>
 </selection>
 </project>
 </viewState>
